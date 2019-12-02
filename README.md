@@ -1,2 +1,2 @@
 # SpeechAI
-This is a speech recogntion system
+This is a speech recognition system
