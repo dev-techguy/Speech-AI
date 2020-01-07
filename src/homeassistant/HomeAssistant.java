@@ -119,7 +119,7 @@ class HomeAssistant {
                         + "dev.techguy@gmail.com\n"
                         + "\nCaution\n"
                         + "\tTell System to Terminate By saying \"EXIT\"\n"
-                        + "\tClick the mic button to activate the system for use.Else system wont function");
+                        + "\tClick the mic button to activate the system for use.Else system won\'t function");
             }
         });
         info.setCursor(new Cursor(Cursor.HAND_CURSOR));
